@@ -36,9 +36,13 @@ const sectionName = "FRAMEWORKS";
 ```
 [![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,nodejs,spring,unreal,unity,fastapi,express,tailwind,reactnative,expo)](#)
 ```ts
+const sectionName = "SYSTEMS_&_GPU";
+```
+[![Systems & GPU](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cmake,nvidia,windows,linux)](#)
+```ts
 const sectionName = "MAIN_TOOLS";
 ```
-[![Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,cloudflare,git,gcp,aws,github,vscode,docker,nginx)](#)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,mysql,redis,cloudflare,git,gcp,aws,github,githubactions,githubpages,vercel,vscode,docker,nginx)](#)
 
 <p align="center">
   <!-- https://platane.me/snk/ -->
