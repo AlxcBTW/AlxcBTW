@@ -38,7 +38,7 @@ const sectionName = "FRAMEWORKS";
 ```ts
 const sectionName = "SYSTEMS_&_GPU";
 ```
-[![Systems & GPU](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cmake,nvidia,windows,linux)](#)
+[![Systems & GPU](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,assembly,cmake,nvidia,windows,linux)](#)
 ```ts
 const sectionName = "MAIN_TOOLS";
 ```
