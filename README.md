@@ -11,11 +11,13 @@
 ```ts
 interface Flokzy {
 	name: string;
+	company: string;
 	role: string;
 }
 
 const flokzy: Flokzy = {
 	name: "flokzy",
+	company: "Athaus",
 	role: "Full Stack Developer"
 };
 ```
